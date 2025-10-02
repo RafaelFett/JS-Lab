@@ -13,6 +13,37 @@ export default function HomePage() {
             <div className="divider"></div>
 
             <button><Link to="/data-structures">Estruturas de Dados</Link></button>
+<h1>Bem-vindo ao Playground de Algoritmos</h1>
+<h1>Bem-vindo ao Playground de Algoritmos</h1>
+<h1>Bem-vindo ao Playground de Algoritmos</h1>
+<h1>Bem-vindo ao Playground de Algoritmos</h1>
+<h1>Bem-vindo ao Playground de Algoritmos</h1>
+
+<h1>Bem-vindo ao Playground de Algoritmos</h1><h1>Bem-vindo ao Playground de Algoritmos</h1>
+<h1>Bem-vindo ao Playground de Algoritmos</h1>
+<h1>Bem-vindo ao Playground de Algoritmos</h1>
+<h1>Bem-vindo ao Playground de Algoritmos</h1>
+
+<h1>Bem-vindo ao Playground de Algoritmos</h1>
+<h1>Bem-vindo ao Playground de Algoritmos</h1>
+<h1>Bem-vindo ao Playground de Algoritmos</h1>
+<h1>Bem-vindo ao Playground de Algoritmos</h1>
+<h1>Bem-vindo ao Playground de Algoritmos</h1>
+<h1>Bem-vindo ao Playground de Algoritmos</h1>
+
+
+<h1>Bem-vindo ao Playground de Algoritmos</h1>
+<h1>Bem-vindo ao Playground de Algoritmos</h1>
+<h1>Bem-vindo ao Playground de Algoritmos</h1>
+<h1>Bem-vindo ao Playground de Algoritmos</h1>
+<h1>Bem-vindo ao Playground de Algoritmos</h1>
+<h1>Bem-vindo ao Playground de Algoritmos</h1>
+<h1>Bem-vindo ao Playground de Algoritmos</h1>
+<h1>Bem-vindo ao Playground de Algoritmos</h1>
+<h1>Bem-vindo ao Playground de Algoritmos</h1>
+<h1>Bem-vindo ao Playground de Algoritmos</h1>
+<h1>Bem-vindo ao Playground de Algoritmos</h1>
+<h1>Bem-vindo ao Playground de Algoritmos</h1>
 
           </ul>
         </nav>
